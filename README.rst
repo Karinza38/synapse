@@ -1,4 +1,4 @@
-.. image:: ./docs/element_logo_white_bg.svg
+ .. image:: ./docs/element_logo_white_bg.svg
    :height: 60px
 
 **Element Synapse - Matrix homeserver implementation**
